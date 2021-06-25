@@ -5,7 +5,7 @@ the cheering words can be added or deleted by the user<br/>
 Also it takes a command and randomly display insipring quotes fetched from the API<br/>
 
 
-##USAGE <br/>
+# USAGE <br/>
 $inspire --for inspiring quotes<br/>
 $list   -- it shows the list of cheering words in the array<br/>
 $ add    -- add your cheer word<br/>
